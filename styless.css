@@ -1,0 +1,42 @@
+form{
+    width: 50%;
+    background-image: url(1.jpg);
+    margin: auto;
+}
+
+legend{
+    color:black;
+    font-size: 50px;
+
+    font-family: 'Times New Roman', Times, serif;
+
+}
+input{
+    color: black;
+    font-size: 25px;
+    font-family: cursive;
+}
+label{
+    color: black;
+    font-size: 25px;
+}
+.three{
+    border: 4px ridge black;
+    border-radius: 10px;
+
+
+}
+#one{
+    background-color: blueviolet;
+    color: white;
+    
+}
+.two{
+    border: 2px ridge black;
+    background-color:white;
+}
+
+#one:hover{
+    background-color: aqua;
+
+}
